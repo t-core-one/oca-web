@@ -9,7 +9,7 @@ $chatter_zone_width: 35%;
                 @include media-breakpoint-up(xl, $o-extra-grid-breakpoints) {
                     .o_inner_group {
                         .o_td_label {
-                            min-width: 260px !important;
+                            min-width: 150px !important;
                         }
                     }
                 }
@@ -28,7 +28,7 @@ $chatter_zone_width: 35%;
                 .modal-content {
                     .o_inner_group {
                         .o_td_label {
-                            min-width: 260px !important;
+                            min-width: 150px !important;
                         }
                     }
                 }
