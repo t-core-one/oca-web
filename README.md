@@ -22,7 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [web_action_conditionable](web_action_conditionable/) | 15.0.1.0.0 |  | web_action_conditionable
-[web_advanced_search](web_advanced_search/) | 15.0.1.1.1 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Easier and more powerful searching tools
+[web_advanced_search](web_advanced_search/) | 15.0.1.1.2 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Easier and more powerful searching tools
 [web_calendar_slot_duration](web_calendar_slot_duration/) | 15.0.1.0.0 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) | Customizable calendar slot durations
 [web_chatter_position](web_chatter_position/) | 15.0.1.0.0 |  | Add an option to change the chatter position
 [web_company_color](web_company_color/) | 15.0.1.1.0 |  | Web Company Color
@@ -47,6 +47,7 @@ addon | version | maintainers | summary
 [web_responsive](web_responsive/) | 15.0.1.1.7 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) [![Tardo](https://github.com/Tardo.png?size=30px)](https://github.com/Tardo) [![SplashS](https://github.com/SplashS.png?size=30px)](https://github.com/SplashS) | Responsive web client, community-supported
 [web_search_with_and](web_search_with_and/) | 15.0.1.0.0 |  | Use AND conditions on omnibar search
 [web_sheet_full_width](web_sheet_full_width/) | 15.0.1.0.1 |  | Use the whole available screen width when displaying sheets
+[web_time_range_menu_custom](web_time_range_menu_custom/) | 15.0.1.0.0 |  | Web Time Range Menu Custom
 [web_timeline](web_timeline/) | 15.0.1.0.2 | [![tarteo](https://github.com/tarteo.png?size=30px)](https://github.com/tarteo) | Interactive visualization chart to show events in time
 [web_tree_dynamic_colored_field](web_tree_dynamic_colored_field/) | 15.0.1.0.0 |  | Allows you to dynamically color fields on tree views
 [web_tree_image_tooltip](web_tree_image_tooltip/) | 15.0.1.1.0 |  | Show images in tree views via tooltip
